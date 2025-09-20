@@ -74,7 +74,7 @@ Compute average DTI for all loans, MTD, and monitor MoM fluctuations.
 
 👔 **Employee Length Analysis (Bar Chart)** → Analyse loan metrics by borrower employment history.
 
-🎯** Loan Purpose Breakdown (Bar Chart)** → Visual breakdown of loans based on borrower’s purpose.
+🎯**Loan Purpose Breakdown (Bar Chart)** → Visual breakdown of loans based on borrower’s purpose.
 
 🏠 **Home Ownership Analysis (Tree Map)** → Impact of home ownership on loan applications & disbursements.
 
