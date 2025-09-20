@@ -1,10 +1,11 @@
 # **📊Bank Loan Report Dashboard** (Microsoft Excel)
-“This repository contains a comprehensive Bank Loan Report built in Excel. It includes structured loan data, detailed analysis, pivot tables, and visual dashboards to track disbursements, repayments, and borrower performance. A useful resource for financial analysis, reporting, and decision-making.”
+**“This repository contains a comprehensive Bank Loan Report built in Excel. It includes structured loan data, detailed analysis, pivot tables, and visual dashboards to track disbursements, repayments, and borrower performance. A useful resource for financial analysis, reporting, and decision-making.”**
 
 ## 📌 Summary Dashboard (KPIs Requirements)
-**🟢 Total Loan Applications:**
 
-Calculate the total number of loan applications received during a specified period. Monitor Month-to-Date (MTD) applications and track Month-over-Month (MoM) changes.
+🟢 Total Loan Applications:
+
+**Calculate the total number of loan applications received during a specified period. Monitor Month-to-Date (MTD) applications and track Month-over-Month (MoM) changes.**
 
 💰 Total Funded Amount: Measure the total disbursed funds as loans. Track MTD Funded Amount and MoM changes.
 
@@ -15,33 +16,46 @@ Calculate the total number of loan applications received during a specified peri
 📊 Average Debt-to-Income Ratio (DTI): Compute average DTI for all loans, MTD, and monitor MoM fluctuations.
 
 ## ✅ Good Loan vs ❌ Bad Loan KPIs
-| **🟢 Good Loan                        | 🔴 Bad Loan                 **   |
-|---------------------------------------------------------------------------|
-| ✅ Good Loan Application Percentage | ❌ Bad Loan Application Percentage |
-| ✅ Good Loan Applications           | ❌ Bad Loan Applications           |
-| ✅ Good Loan Funded Amount          | ❌ Bad Loan Funded Amount          |
-| ✅ Good Loan Total Received Amount  | ❌ Bad Loan Total Received Amount  |
+**🟢 Good Loan:**
+
+1. % Good Loan Applications
+
+2. Total Good Loan Applications
+
+3. Good Loan Funded Amount
+
+4. Good Loan Total Received Amount
+
+**🔴 Bad Loan:**
+
+1. % Bad Loan Applications
+
+2. Total Bad Loan Applications
+
+3. Bad Loan Funded Amount
+
+4. Bad Loan Total Received Amount
 
 
-🗂️ Loan Status Grid View
+## 🗂️ Loan Status Grid View
 
-A grid report categorized by Loan Status, showing:
+**A grid report categorized by Loan Status, showing**
 
-Total Loan Applications
+➡ Total Loan Applications
 
-Total Funded Amount
+➡ Total Funded Amount
 
-Total Amount Received
+➡ Total Amount Received
 
-MTD Funded Amount
+➡ MTD Funded Amount
 
-MTD Amount Received
+➡MTD Amount Received
 
-Average Interest Rate
+➡Average Interest Rate
 
-Average Debt-to-Income Ratio (DTI)
+➡ Average Debt-to-Income Ratio (DTI)
 
-📌 Dashboard 2: Overview
+# 📌 Dashboard 2: Overview
 📉 Charts & Visuals
 
 📆 Monthly Trends by Issue Date (Line Chart) → Identify seasonality & long-term lending trends.
@@ -64,12 +78,12 @@ Total Funded Amount
 
 Total Amount Received
 
-📌 Dashboard 3: Details
-🗂️ Details Grid
+# 📌 Dashboard 3: Details
+## 🗂️ Details Grid
 
-A comprehensive Details Dashboard with all key loan metrics, borrower profiles, and loan performance insights.
+**A comprehensive Details Dashboard with all key loan metrics, borrower profiles, and loan performance insights.**
 
-🎯 Objective:
+## 🎯 Objective:
 Provide a one-stop solution for users to explore:
 
 Loan portfolio health
