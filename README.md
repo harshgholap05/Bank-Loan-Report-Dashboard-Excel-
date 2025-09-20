@@ -3,17 +3,25 @@
 
 ## 📌 Summary Dashboard (KPIs Requirements)
 
-🟢 Total Loan Applications:
+**🟢 Total Loan Applications**
 
-**Calculate the total number of loan applications received during a specified period. Monitor Month-to-Date (MTD) applications and track Month-over-Month (MoM) changes.**
+Calculate the total number of loan applications received during a specified period. Monitor Month-to-Date (MTD) applications and track Month-over-Month (MoM) changes.
 
-💰 Total Funded Amount: Measure the total disbursed funds as loans. Track MTD Funded Amount and MoM changes.
+**💰 Total Funded Amount**
 
-💵 Total Amount Received: Monitor repayments received from borrowers. Analyse MTD Received Amount and MoM changes.
+Measure the total disbursed funds as loans. Track MTD Funded Amount and MoM changes.
 
-📈 Average Interest Rate: Calculate overall & MTD average interest rate and observe MoM variations.
+**💵 Total Amount Received**
 
-📊 Average Debt-to-Income Ratio (DTI): Compute average DTI for all loans, MTD, and monitor MoM fluctuations.
+Monitor repayments received from borrowers. Analyse MTD Received Amount and MoM changes.
+
+**📈 Average Interest Rate**
+
+Calculate overall & MTD average interest rate and observe MoM variations.
+
+**📊 Average Debt-to-Income Ratio (DTI)**
+
+Compute average DTI for all loans, MTD, and monitor MoM fluctuations.
 
 ## ✅ Good Loan vs ❌ Bad Loan KPIs
 **🟢 Good Loan:**
@@ -41,19 +49,19 @@
 
 **A grid report categorized by Loan Status, showing**
 
-➡ Total Loan Applications
+• Total Loan Applications
 
-➡ Total Funded Amount
+• Total Funded Amount
 
-➡ Total Amount Received
+• Total Amount Received
 
-➡ MTD Funded Amount
+• MTD Funded Amount
 
-➡MTD Amount Received
+• MTD Amount Received
 
-➡Average Interest Rate
+• Average Interest Rate
 
-➡ Average Debt-to-Income Ratio (DTI)
+• Average Debt-to-Income Ratio (DTI)
 
 # 📌 Dashboard 2: Overview
 📉 Charts & Visuals
@@ -70,15 +78,16 @@
 
 🏠 Home Ownership Analysis (Tree Map) → Impact of home ownership on loan applications & disbursements.
 
-Metrics Displayed:
+• Metrics Displayed:
 
-Total Loan Applications
+• Total Loan Applications
 
-Total Funded Amount
+• Total Funded Amount
 
-Total Amount Received
+• Total Amount Received
 
 # 📌 Dashboard 3: Details
+
 ## 🗂️ Details Grid
 
 **A comprehensive Details Dashboard with all key loan metrics, borrower profiles, and loan performance insights.**
@@ -86,10 +95,10 @@ Total Amount Received
 ## 🎯 Objective:
 Provide a one-stop solution for users to explore:
 
-Loan portfolio health
+• Loan portfolio health
 
-Borrower details
+• Borrower details
 
-Performance analysis
+• Performance analysis
 
-Repayment tracking
+• Repayment tracking
