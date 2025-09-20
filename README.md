@@ -64,21 +64,21 @@ Compute average DTI for all loans, MTD, and monitor MoM fluctuations.
 • Average Debt-to-Income Ratio (DTI)
 
 # 📌 Dashboard 2: Overview
-📉 Charts & Visuals
+📉 **Charts & Visuals**
 
-📆 Monthly Trends by Issue Date (Line Chart) → Identify seasonality & long-term lending trends.
+📆**Monthly Trends by Issue Date (Line Chart)** → Identify seasonality & long-term lending trends.
 
-🗺️ Regional Analysis by State (Filled Map) → Identify high lending regions & disparities.
+🗺️ **Regional Analysis by State (Filled Map)** → Identify high lending regions & disparities.
 
-🥧 Loan Term Analysis (Donut Chart) → Understand loan distribution across term lengths.
+🥧 **Loan Term Analysis (Donut Chart)** → Understand loan distribution across term lengths.
 
-👔 Employee Length Analysis (Bar Chart) → Analyse loan metrics by borrower employment history.
+👔 **Employee Length Analysis (Bar Chart)** → Analyse loan metrics by borrower employment history.
 
-🎯 Loan Purpose Breakdown (Bar Chart) → Visual breakdown of loans based on borrower’s purpose.
+🎯** Loan Purpose Breakdown (Bar Chart)** → Visual breakdown of loans based on borrower’s purpose.
 
-🏠 Home Ownership Analysis (Tree Map) → Impact of home ownership on loan applications & disbursements.
+🏠 **Home Ownership Analysis (Tree Map)** → Impact of home ownership on loan applications & disbursements.
 
-• Metrics Displayed:
+• Metrics Displayed
 
 • Total Loan Applications
 
@@ -93,7 +93,7 @@ Compute average DTI for all loans, MTD, and monitor MoM fluctuations.
 **A comprehensive Details Dashboard with all key loan metrics, borrower profiles, and loan performance insights.**
 
 ## 🎯 Objective:
-Provide a one-stop solution for users to explore:
+**Provide a one-stop solution for users to explore:**
 
 • Loan portfolio health
 
