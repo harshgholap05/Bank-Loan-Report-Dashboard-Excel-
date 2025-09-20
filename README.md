@@ -45,6 +45,11 @@ Compute average DTI for all loans, MTD, and monitor MoM fluctuations.
 4. Bad Loan Total Received Amount
 
 
+<img width="1519" height="648" alt="image" src="https://github.com/user-attachments/assets/11b537ec-ba21-489a-b559-ccc32a1a069f" />
+
+
+
+
 ## 🗂️ Loan Status Grid View
 
 **A grid report categorized by Loan Status, showing**
@@ -78,6 +83,9 @@ Compute average DTI for all loans, MTD, and monitor MoM fluctuations.
 
 🏠 **Home Ownership Analysis (Tree Map)** → Impact of home ownership on loan applications & disbursements.
 
+<img width="1519" height="648" alt="image" src="https://github.com/user-attachments/assets/41ed326e-a3d3-4825-b37b-a9d470f0c4b0" />
+
+
 • Metrics Displayed
 
 • Total Loan Applications
@@ -88,7 +96,7 @@ Compute average DTI for all loans, MTD, and monitor MoM fluctuations.
 
 # 📌 Dashboard 3: Details
 
-## 🗂️ Details Grid
+##🗂️ Details Grid
 
 **A comprehensive Details Dashboard with all key loan metrics, borrower profiles, and loan performance insights.**
 
