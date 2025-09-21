@@ -1,6 +1,10 @@
 # **📊Bank Loan Report Dashboard** (Microsoft Excel)
 **“This repository contains a comprehensive Bank Loan Report built in Excel. It includes structured loan data, detailed analysis, pivot tables, and visual dashboards to track disbursements, repayments, and borrower performance. A useful resource for financial analysis, reporting, and decision-making.”**
 
+## Dataset File
+
+<a href="https://github.com/harshgholap05/Bank-Loan-Report-Dashboard-Excel-/blob/main/Dataset%20File/financial_loan.csv"> Financial Loan </a> 
+
 ## 📌 Summary Dashboard (KPIs Requirements)
 
 **🟢 Total Loan Applications**
@@ -44,6 +48,9 @@ Compute average DTI for all loans, MTD, and monitor MoM fluctuations.
 
 4. Bad Loan Total Received Amount
 
+## Dashboard Interaction
+
+<a href="https://github.com/harshgholap05/Bank-Loan-Report-Dashboard-Excel-/blob/main/bank%20loan%20report.xlsx"> Bank Loan Report Dashboard </a>
 
 <img width="1519" height="648" alt="image" src="https://github.com/user-attachments/assets/11b537ec-ba21-489a-b559-ccc32a1a069f" />
 
