@@ -106,7 +106,7 @@ Compute average DTI for all loans, MTD, and monitor MoM fluctuations.
 
 # 📌 Dashboard 3: Details
 
-##🗂️ Details Grid
+## 🗂️ Details Grid
 
 **A comprehensive Details Dashboard with all key loan metrics, borrower profiles, and loan performance insights.**
 
