@@ -83,7 +83,10 @@ Compute average DTI for all loans, MTD, and monitor MoM fluctuations.
 
 🏠 **Home Ownership Analysis (Tree Map)** → Impact of home ownership on loan applications & disbursements.
 
-<img width="1519" height="648" alt="image" src="https://github.com/user-attachments/assets/41ed326e-a3d3-4825-b37b-a9d470f0c4b0" />
+
+
+<img width="1521" height="651" alt="image" src="https://github.com/user-attachments/assets/61efffbb-d754-4a84-9223-f0220d0f8c22" />
+
 
 
 • Metrics Displayed
