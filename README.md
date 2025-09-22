@@ -52,7 +52,7 @@ Compute average DTI for all loans, MTD, and monitor MoM fluctuations.
 
 <a href="https://github.com/harshgholap05/Bank-Loan-Report-Dashboard-Excel-/blob/main/bank%20loan%20report.xlsx"> Bank Loan Report Dashboard </a>
 
-<img width="1519" height="648" alt="image" src="https://github.com/user-attachments/assets/11b537ec-ba21-489a-b559-ccc32a1a069f" />
+<img width="1519" height="645" alt="image" src="https://github.com/user-attachments/assets/8c8d4677-67cd-4f13-bd9c-bdaa0f84db0a" />
 
 
 
