@@ -120,3 +120,6 @@ Compute average DTI for all loans, MTD, and monitor MoM fluctuations.
 • Performance analysis
 
 • Repayment tracking
+
+ ##
+ ## [Linkedin](https://www.linkedin.com/in/harshvardhan-gholap-821255326/)
